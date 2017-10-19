@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="2017.10.11" orientation="orthogonal" renderorder="right-down" width="32" height="24" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" name="White" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="tiles/White.png" width="50" height="46"/>
+ </tileset>
+ <tileset firstgid="2" name="Black" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="tiles/Black.png" width="50" height="46"/>
+ </tileset>
+<tileset firstgid="3" name="logic" tilewidth="32" tileheight="32" tilecount="1" columns="1">
+  <image source="tiles/logic.png" width="50" height="46"/>
+ </tileset>
+ <layer name="Calque de Tile 1" width="32" height="24">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBTgA4wDpHfU/lH7qWE/pW4Y1U87/cTEz0DbTynAZj4jGqY3GLV/1P5RzMAAADss5isADAAA
+  </data>
+ </layer>
+ <layer name="logic" width="32" height="24" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgGAWjYBTgA8wDpHfU/lH7qWE/pW6g1IzBYP+o/oEDA23/KBgFlABmKuLBBgAXU9M8AAwAAA==
+  </data>
+ </layer>
+</map>
